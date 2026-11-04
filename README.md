@@ -2,7 +2,7 @@
 
 An interactive one-page Power BI dashboard analyzing sales, cost, and profit across European countries, product categories, and sales channels.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Images/Screenshot 2026-11-04 103546.png)
 
 ## Project Overview
 
