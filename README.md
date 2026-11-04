@@ -2,8 +2,7 @@
 
 An interactive one-page Power BI dashboard analyzing sales, cost, and profit across European countries, product categories, and sales channels.
 
-![Dashboard Preview](Images/Screenshot 2026-11-04 103546.png)
-
+![Dashboard Preview](Images/dashboard.png)
 ## Project Overview
 
 The goal of this project was to turn a raw sales dataset into a clear, decision-ready dashboard that answers:
@@ -102,4 +101,4 @@ DIVIDE(
 
 **Shahim Al-Rhahleh** | Data Analyst
 Skills: SQL, Python, Power BI, Excel
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/shahim-rhahleh-7b7350288/) | [GitHub](https://github.com/Shahim04)
